@@ -1,4 +1,4 @@
-# Hey there, I'm Rudra 👋
+# Hey there, I'm Rudra 
 
 **Full-stack Developer | AI Enthusiast | Open Source Contributor**
 
