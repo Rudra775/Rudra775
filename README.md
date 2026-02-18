@@ -24,17 +24,10 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 ## 💼 Professional Experience
 
-### **[Your Job Title]** @ [Company Name]
-**[Start Date] – [End Date]**
-- Accomplishment or responsibility statement
-- Key project or initiative you led
-- Impact or metrics from your work
-
-### **[Previous Job Title]** @ [Previous Company]
-**[Start Date] – [End Date]**
-- Accomplishment or responsibility statement
-- Key project or initiative you led
-- Impact or metrics from your work
+### **Software Developer Intern** @ Parplaero
+**December 2025 – February 2026**
+- Worked on development of Price Monitoring Module using Node JS.
+  
 
 ---
 
@@ -47,13 +40,14 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 `React` `Next.js` `Tailwind CSS` `Material-UI` `Vue.js`
 
 **Backend:**
-`Node.js` `Express` `Django` `FastAPI` `PostgreSQL` `MongoDB`
+`Node.js` `Express` `PostgreSQL` `MongoDB`
 
 **DevOps & Cloud:**
-`AWS` `Docker` `Kubernetes` `GitHub Actions` `Firebase` `Vercel`
+`AWS` `Docker` `Kubernetes` `GitHub Actions` `Vercel`
 
-**AI/ML:**
-`TensorFlow` `PyTorch` `Scikit-learn` `NLP` `Computer Vision`
+**AI:**
+`Langchain` `Langgraph` `NLP`
+
 
 ---
 
